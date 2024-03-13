@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandsten
-- 👀 I’m interested in fullstack development, VR, UX
-- 🌱 I’m currently learning ASP.NET Core 6
+- 👀 I’m interested in fullstack development, Computer Graphics, VR, UX.
 - 📫 How to reach me staffansandberg@outlook.com
+- 💻 Visit my portfolio https://staffansandberg.com
 
 <!---
 Sandsten/Sandsten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
