@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sandsten
 - 👀 I’m interested in fullstack development, Computer Graphics, VR, UX.
-- 📫 How to reach me contact@staffansandberg.com
-- 💻 Visit my portfolio https://staffansandberg.com
 
 <!---
 Sandsten/Sandsten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
