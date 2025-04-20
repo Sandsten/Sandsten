@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandsten
 - 👀 I’m interested in fullstack development, Computer Graphics, VR, UX.
-- 📫 How to reach me staffansandberg@outlook.com
+- 📫 How to reach me contact@staffansandberg.com
 - 💻 Visit my portfolio https://staffansandberg.com
 
 <!---
